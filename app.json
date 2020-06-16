@@ -1,7 +1,7 @@
 {
-  "name": "YoBetIt",
+  "name": "JasBioService",
   "description": "",
-  "repository": "https://github.com/jascode/yobetit_service",
+  "repository": "https://github.com/jasbio/service",
   "keywords": [
     "node",
     "express",
